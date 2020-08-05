@@ -1,6 +1,2 @@
-echo "# truncatevirus99.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/TruncateVirus99/truncatevirus99.github.io.git
-git push -u origin master
+#My website
+yep, this is my website. pretty heckin' cool, huh?
