@@ -1,2 +1,2 @@
-# truncatevirus99.github.io
-I have no idea what I'm doing so yay watch me struggle if you want I guess
+# website
+This is a website. On a screen. Don't like it? Try it on a new screen on a different device.
